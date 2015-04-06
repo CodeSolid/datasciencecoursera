@@ -1,2 +1,4 @@
 # datasciencecoursera
-Proving to CourseERA that I can haz github!
+My repository for my Data Science Specialization on coursera. 
+
+Welcome!
